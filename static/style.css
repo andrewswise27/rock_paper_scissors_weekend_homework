@@ -1,0 +1,35 @@
+h1  {
+    text-align: center;
+    margin-top: 0;
+    padding-top: 10px;
+    padding-left: 10px;
+    margin-bottom: 0;
+    
+}
+
+a {
+    text-decoration: none;
+    color: black;
+    padding-bottom: 20px;
+}
+
+a:hover {
+    cursor: pointer;
+    color: crimson;
+}
+
+section b {
+    color: aqua;
+    
+}
+
+header {
+    background-color: aquamarine;
+}
+
+body {
+    font-family: fantasy;
+    margin: 0;
+    background-color: darkgoldenrod;
+    
+}
